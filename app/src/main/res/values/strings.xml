@@ -1,5 +1,33 @@
 <resources>
     <string name="app_name">LearningContract</string>
     <string name="learning_contract">Learning Contract</string>
+    <string name="name1">Zairen V. Lapid</string>
+    <string name="contract_icon">Contract</string>
+    <string name="cc17">CC17- MOBILE APPLICATION DESIGN AND DEVELOPMENT</string>
     <string name="expectations">Expectations</string>
+    <string name="exp1">⦁	We expect to learn how to design and build functional and user-friendly mobile applications using Android Studio.</string>
+    <string name="exp2">⦁	We expect to improve our skills in writing clean, efficient code for mobile platforms.</string>
+    <string name="exp3">⦁	We expect to understand the entire process of mobile app development, from planning and UI design to testing and deployment.</string>
+    <string name="exp4">⦁	We expect to collaborate as a team and divide tasks fairly so that everyone contributes to the project.</string>
+    <string name="exp5">⦁	We expect to receive guidance and feedback from our instructor to help us refine our app ideas and improve our work.</string>
+    <string name="motivations">Motivations</string>
+    <string name="mot1">⦁	We are motivated by the opportunity to create a working mobile app that we can be proud of.</string>
+    <string name="mot2">⦁	We want to gain experience that will prepare us for real-world mobile development jobs or internships.</string>
+    <string name="mot3">⦁	We are excited to learn Android Studio and explore what we can build with it.</string>
+    <string name="mot4">⦁	We are motivated by the challenge of solving real problems through mobile technology.</string>
+    <string name="mot5">⦁	We want to build a project that could potentially be included in our portfolios or even be used by real users.</string>
+    <string name="contributions">Contributions</string>
+    <string name="con1">⦁	We will work together to plan, design, and develop our mobile applications step by step.</string>
+    <string name="con2">⦁	We will divide tasks based on each member’s strengths while helping each other when needed.</string>
+    <string name="con3">⦁	We will actively test, debug, and refine our apps to make sure they work smoothly.</string>
+    <string name="con4">⦁	We will stay organized by keeping track of our progress and deadlines to avoid last-minute rushes.</string>
+    <string name="con5">⦁	We will present our work professionally and clearly during project demonstrations.</string>
+    <string name="hindrances">Hindrances</string>
+    <string name="hind1">⦁	We might face challenges when debugging errors that are hard to track down in Android Studio.</string>
+    <string name="hind2">⦁	We may encounter scheduling conflicts that make it hard to meet regularly as a group.</string>
+    <string name="hind3">⦁	We could have difficulty managing time when several deliverables are due at the same time.</string>
+    <string name="hind4">⦁	We may struggle with remembering concepts like APIs, databases, or UI/UX best practices at first.</string>
+    <string name="hind5">⦁	Technical issues like slow laptops/desktops or emulator problems could delay our development process.</string>
+    <string name="signature">signature</string>
+
 </resources>
