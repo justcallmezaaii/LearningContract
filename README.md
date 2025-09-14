@@ -1,4 +1,4 @@
-# 📱 My Android App
+# 📱 Learning Contract Application
 
 This is a static Android application built using **Android Studio**.  
 It is currently available for download as a release APK from the **Releases** section.
@@ -6,8 +6,8 @@ It is currently available for download as a release APK from the **Releases** se
 
 ---
 📸 Screenshots
-![Screenshot1](app/src/main/res/drawable/Screenshot1.png)
-![Screenshot2](app/src/main/res/drawable/Screenshot2.png)
+![Screenshot1](app/src/main/res/drawable/Screenshot1.png=100x200)
+![Screenshot2](app/src/main/res/drawable/Screenshot2.png=100x200)
 ## 📦 Installation
 
 ---
