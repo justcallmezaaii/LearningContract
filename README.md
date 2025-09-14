@@ -5,12 +5,12 @@ It is currently available for download as a release APK from the **Releases** se
 
 
 ---
-📸 Screenshots
-![Screenshot1](app/src/main/res/drawable/Screenshot1.png=100x200)
-![Screenshot2](app/src/main/res/drawable/Screenshot2.png=100x200)
-## 📦 Installation
+## 📸 Screenshots
+
+<img src="app/src/main/res/drawable/Screenshot1.png" alt="screenshot1" width="auto" height="600"><span/><img src="app/src/main/res/drawable/Screenshot2.png" alt="screenshot2" width="auto" height="600">
 
 ---
+## 📦 Installation
 1. Go to the [Releases](../../releases) page of this repository.  
 2. Download the latest `app-release.apk`.  
 3. Transfer it to your Android device.  
@@ -22,11 +22,12 @@ It is currently available for download as a release APK from the **Releases** se
 ## 🛠️ Development
 
 This project was built with:
-- **Android Studio**
-- **Java / Kotlin**
-- **Gradle**
+- <img src="https://iconlogovector.com/uploads/images/2024/04/sm-661b2243e2959-Android-Studio.webp" alt="as_logo" width="auto" height="100">
+- <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/kotlin-2-logo.png" alt="kot_logo" width="auto" height="100">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gradle_logo.png" alt="grd_logo" width="auto" height="60">
 
-To build this project locally:
+---
+##To build this project locally:
 
 ```bash
 # Clone the repository
