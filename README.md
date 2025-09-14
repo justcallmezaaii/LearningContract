@@ -13,7 +13,7 @@ It is currently available for download as a release APK from the Releases sectio
 
 
 ## 📦 Installation
-1. Go to the [Releases](../../releases) page of this repository.  
+1. Go to the [Releases](https://github.com/justcallmezaaii/LearningContract/releases/tag/v0.1.0-beta) page of this repository.  
 2. Download the latest `app-debug.apk`.  
 3. Transfer it to your Android device.  
 4. Enable **Install from Unknown Sources** (if not already enabled).  
