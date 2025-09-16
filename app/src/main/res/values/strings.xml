@@ -2,6 +2,10 @@
     <string name="app_name">LearningContract</string>
     <string name="learning_contract">Learning Contract</string>
     <string name="name1">Zairen V. Lapid</string>
+    <string name="name2">Christine Jane Reyes</string>
+    <string name="name3">Gabriel Angelo Ramos</string>
+    <string name="name4">Mark Vincent Rodulfa</string>
+    <string name="name5">name</string>
     <string name="contract_icon">Contract</string>
     <string name="cc17">CC17- MOBILE APPLICATION DESIGN AND DEVELOPMENT</string>
     <string name="expectations">Expectations</string>
@@ -29,5 +33,6 @@
     <string name="hind4">⦁	We may struggle with remembering concepts like APIs, databases, or UI/UX best practices at first.</string>
     <string name="hind5">⦁	Technical issues like slow laptops/desktops or emulator problems could delay our development process.</string>
     <string name="signature">signature</string>
+
 
 </resources>
