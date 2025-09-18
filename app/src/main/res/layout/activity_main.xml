@@ -76,7 +76,7 @@
                 android:backgroundTint="@color/colorSecondary"
                 android:backgroundTintMode="add"
                 android:minWidth="411dp"
-                android:minHeight="280dp"
+                android:minHeight="290dp"
                 android:scrollbarStyle="insideInset"
                 android:visibility="visible">
 
@@ -549,6 +549,24 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/cairo_play_semibold"
                 android:text="@string/name3"
+                android:textAlignment="center"
+                android:textColor="#FFFEFE"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+            <ImageView
+                android:id="@+id/signature5"
+                android:layout_width="match_parent"
+                android:layout_height="78dp"
+                android:contentDescription="@string/signature"
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/lsign" />
+
+            <TextView
+                android:id="@+id/textView37"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/cairo_play_semibold"
+                android:text="@string/name5"
                 android:textAlignment="center"
                 android:textColor="#FFFEFE"
                 android:textSize="16sp"
